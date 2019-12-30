@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "32b42d22008fbd0c71b7bc01d1a227d3",
+    "revision": "22c59c38df4beb87f30fd026a44a060e",
     "url": "/AWS-Instance-Remote/index.html"
   },
   {
-    "revision": "37722150b20b134dfa28",
-    "url": "/AWS-Instance-Remote/static/css/main.f141b893.chunk.css"
+    "revision": "774184bb4659be68034c",
+    "url": "/AWS-Instance-Remote/static/css/main.c43f4fe6.chunk.css"
   },
   {
     "revision": "4ee796cfabedc5bd953d",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AWS-Instance-Remote/static/js/2.cd5ddd3b.chunk.js.LICENSE"
   },
   {
-    "revision": "37722150b20b134dfa28",
-    "url": "/AWS-Instance-Remote/static/js/main.935bad2f.chunk.js"
+    "revision": "774184bb4659be68034c",
+    "url": "/AWS-Instance-Remote/static/js/main.7c4ca7c5.chunk.js"
   },
   {
     "revision": "954c64eba8c029211567",

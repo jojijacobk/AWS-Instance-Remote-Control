@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/AWS-Instance-Remote/precache-manifest.39af02dce7e936c9a8e3415779448084.js"
+  "/AWS-Instance-Remote/precache-manifest.a77a0cb1ac83f4e48a41bdd36dd723eb.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/AWS-Instance-Remote/static/css/main.f141b893.chunk.css",
-    "main.js": "/AWS-Instance-Remote/static/js/main.935bad2f.chunk.js",
-    "main.js.map": "/AWS-Instance-Remote/static/js/main.935bad2f.chunk.js.map",
+    "main.css": "/AWS-Instance-Remote/static/css/main.c43f4fe6.chunk.css",
+    "main.js": "/AWS-Instance-Remote/static/js/main.7c4ca7c5.chunk.js",
+    "main.js.map": "/AWS-Instance-Remote/static/js/main.7c4ca7c5.chunk.js.map",
     "runtime-main.js": "/AWS-Instance-Remote/static/js/runtime-main.ea83cff0.js",
     "runtime-main.js.map": "/AWS-Instance-Remote/static/js/runtime-main.ea83cff0.js.map",
     "static/js/2.cd5ddd3b.chunk.js": "/AWS-Instance-Remote/static/js/2.cd5ddd3b.chunk.js",
     "static/js/2.cd5ddd3b.chunk.js.map": "/AWS-Instance-Remote/static/js/2.cd5ddd3b.chunk.js.map",
     "index.html": "/AWS-Instance-Remote/index.html",
-    "precache-manifest.39af02dce7e936c9a8e3415779448084.js": "/AWS-Instance-Remote/precache-manifest.39af02dce7e936c9a8e3415779448084.js",
+    "precache-manifest.a77a0cb1ac83f4e48a41bdd36dd723eb.js": "/AWS-Instance-Remote/precache-manifest.a77a0cb1ac83f4e48a41bdd36dd723eb.js",
     "service-worker.js": "/AWS-Instance-Remote/service-worker.js",
-    "static/css/main.f141b893.chunk.css.map": "/AWS-Instance-Remote/static/css/main.f141b893.chunk.css.map",
+    "static/css/main.c43f4fe6.chunk.css.map": "/AWS-Instance-Remote/static/css/main.c43f4fe6.chunk.css.map",
     "static/js/2.cd5ddd3b.chunk.js.LICENSE": "/AWS-Instance-Remote/static/js/2.cd5ddd3b.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.ea83cff0.js",
     "static/js/2.cd5ddd3b.chunk.js",
-    "static/css/main.f141b893.chunk.css",
-    "static/js/main.935bad2f.chunk.js"
+    "static/css/main.c43f4fe6.chunk.css",
+    "static/js/main.7c4ca7c5.chunk.js"
   ]
 }
