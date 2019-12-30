@@ -7,5 +7,6 @@ export default {
     secretAccessKey: 'uCRaCupLFp68FaDqNJgSI+YpcuNhoOsjF7v7ytOw',
     convertResponseTypes: true
   },
-  monitorRefreshTime: 5000
+  monitorRefreshTime: 5000,
+  about: 'jacobperuva.com'
 };

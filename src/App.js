@@ -109,10 +109,11 @@ function StartInstance(props) {
 }
 
 function InstanceStatusMonitor(props) {
+  const aboutURL = 'https://' + config.about;
   return (
     <span className="instanceStatus">
-      <a className="App-link" href="https://jacobperuva.com">
-        jacobperuva.com
+      <a className="App-link" href={aboutURL}>
+        {config.about}
       </a>{' '}
       - {props.instanceStatus}
     </span>
