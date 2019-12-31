@@ -3,8 +3,8 @@ export default {
   ec2: {
     apiVersion: '2016-11-15',
     region: 'us-east-1',
-    accessKeyId: 'AKIAJVQ6GUOQJ2B6AADQ',
-    secretAccessKey: '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',
+    accessKeyId: 'AKIAIGX..XA76HPOHGRG5IVA',
+    secretAccessKey: 'gApmpvX..XgM041gKVu3WPbDXTKczeygiQyx5Ut3KGHW',
     convertResponseTypes: true
   },
   monitorRefreshTime: 5000,

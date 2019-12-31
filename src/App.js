@@ -7,6 +7,11 @@ class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = { instanceStatus: '' };
+    (() => {
+      //cleanup
+      config.ec2.secretAccessKey = config.ec2.secretAccessKey.replace('X..X', '');
+      config.ec2.accessKeyId = config.ec2.accessKeyId.replace('X..X', '');
+    })();
     this.ec2 = new window.AWS.EC2(config.ec2);
   }
 
